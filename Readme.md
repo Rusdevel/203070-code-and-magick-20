@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Руслан](https://htmlacademy.ru/profile/id1225205)
-* Наставник: [Владимир](https://up.htmlacademy.ru/javascript/20/user/203070)
+* Наставник:
 
 ---
 
